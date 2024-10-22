@@ -1,0 +1,7 @@
+{
+    "input": "custom_input",
+    "output": "custom_output",
+    "language": "fr",
+    "jobs": 4,
+    "log_level": "info"
+}
